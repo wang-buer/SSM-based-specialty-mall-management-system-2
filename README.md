@@ -1,43 +1,87 @@
-# 基于SSM的特产商城管理系统2
+# 基于SSM的特产商城管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**商城2**
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的特产商城管理系统拥有两个角色，分别为管理员和用户
 
 管理员：商品管理、订单管理、产地管理、用户管理、资讯管理、客服等
 
 用户：购物车、订单管理、下单、查看个人发布商品、收货地址管理、收藏管理等
 
+![系统功能图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152101178.jpg)
 
 
-#### 软件架构
-软件架构说明
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端框架：Bootstrap、jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- 数据库版本：MySql 5.x
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152101415.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![用户登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152101220.png)
 
-#### 参与贡献
+### 4.2 前端模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152106672.jpg)
+
+![下单页面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107147.jpg)
+
+![商品详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107527.jpg)
+
+### 4.3 用户模块
+
+![用户-查看个人发布的商品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107929.jpg)
+
+![用户-查看订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107285.jpg)
+
+![用户-收藏](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107861.jpg)
+
+![用户收货地址](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152107382.jpg)
+
+### 4.4 管理员模块
+
+![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108608.jpg)
+
+![管理员-产地管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108465.jpg)
+
+![管理员-特产信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108729.jpg)
+
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108149.jpg)
+
+![管理员-资讯管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108433.jpg)
+
+![管理员-客服](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108817.jpg)
+
+![管理员-交流论坛管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108179.jpg)
+
+管理员可以对商品、订单、产地、用户、资讯等进行增删改查，还能查看用户的未支付订单、已支付订单、已退款订单、已发货订单、已完成订单等。具体可以看视频或者截图
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**商城2**
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
